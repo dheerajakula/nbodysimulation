@@ -1,0 +1,8 @@
+<Gravitational Constant> <Number of bodies(N)> <Time step> <Time>
+<Mass of M1>
+<Position of M1 in x,y,z co-ordinates>
+<Initial velocity of M1 in x,,y,z components>
+...
+<And so on for N bodies>
+
+x,y,z denote position components in 3-space, vx,vy,vz denote velocity components)
